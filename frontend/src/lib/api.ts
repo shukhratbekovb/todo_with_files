@@ -1,4 +1,4 @@
-const BASE = "http://localhost:8000";
+const BASE = "https://api.testsage.uz";
 
 export interface TodoFile {
   id: number;
